@@ -13,9 +13,7 @@ api_hash = questionary.password('Api hash:').ask()
 client = TelegramClient('session_new', api_id, api_hash)
 client.start()
 
-print('∧,,,∧   ~ ┏━━━━━━━━┓
-     (  ̳• · • ̳)   ~ @Fucker_VeNoM 𝙏𝙚𝙘𝙝_𝘿𝙞𝙜𝙞𝙩𝙖𝙡
-    /       づ  ~ ┗━━━━━━━━┛')
+print('MADE BY VENOM')
 
 
 async def main():
